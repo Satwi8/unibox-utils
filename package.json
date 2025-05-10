@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Satwi8/unibox-utils/issues"
   },
-  "homepage": "https://github.com/Satwi8/unibox-utils#readme"
+  "homepage": "https://github.com/Satwi8/unibox-utils#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
