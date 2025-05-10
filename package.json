@@ -1,0 +1,17 @@
+{
+  "name": "unibox-utils",
+  "version": "1.0.0",
+  "description": "Universal JavaScript utility library for frontend and backend",
+  "main": "src/index.js",
+  "keywords": ["utility", "universal", "frontend", "backend"],
+  "author": "Satwi8",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Satwi8/unibox-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Satwi8/unibox-utils/issues"
+  },
+  "homepage": "https://github.com/Satwi8/unibox-utils#readme"
+}
