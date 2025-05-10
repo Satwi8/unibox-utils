@@ -1,9 +1,14 @@
 {
   "name": "unibox-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Universal JavaScript utility library for frontend and backend",
   "main": "src/index.js",
-  "keywords": ["utility", "universal", "frontend", "backend"],
+  "keywords": [
+    "utility",
+    "universal",
+    "frontend",
+    "backend"
+  ],
   "author": "Satwi8",
   "license": "MIT",
   "repository": {
